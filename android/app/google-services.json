@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123552685190",
+    "firebase_url": "https://flutterarci.firebaseio.com",
+    "project_id": "flutterarci",
+    "storage_bucket": "flutterarci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123552685190:android:6f3995dbb8776acda08507",
+        "android_client_info": {
+          "package_name": "com.example.flutterarci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123552685190-6lddnkg8opcjj1t2ldbrndt2p9st05ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyZ3HXjSOCtGktHJ6r_3S5JHC8LJMoJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123552685190-6lddnkg8opcjj1t2ldbrndt2p9st05ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
